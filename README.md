@@ -2,7 +2,7 @@
 # add-on yaml di websocket for z9cksVPN 3RinggeK
 # add on trojan tls ntls websocket 
 
-                                           <h2 align="center">AutoScript VPN By comingsoon</h2>
+                                           <h2 align="center"> AutoScript VPN By comingsoon</h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
