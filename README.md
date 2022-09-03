@@ -18,21 +18,18 @@ src="https://img.shields.io/badge/Service-Xray-success.svg">  <img src= "https:/
 
   ```html
   apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
-
   ```
 
 ## Update & Upgrade First Your VPS for Ubuntu 18.04 & 20.04
 
   ```html
   apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && sleep 2 && reboot
-
   ```
  
 ## INSTALLATION SCRIPT
 
   ```html
   sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Hazzuan1984/multiportws/main/setup1.sh && chmod +x setup1.sh && sed -i -e 's/\r$//' setup1.sh && screen -S setup1 ./setup1.sh
-
   ```
  
  ## Copy & paste 👇👇 to your VPS if ERROR (WG ONLY)
@@ -44,12 +41,10 @@ printf 'Package: *\nPin: release a=unstable\nPin-Priority: 90\n' >/etc/apt/prefe
 apt update
 apt install -y wireguard-tools iptables iptables-persistent
 apt install -y linux-headers-$(uname -r)
- 
   ```
  
    ```html
 systemctl restart wg-quick@wg0
-
   ```
 
 ## Info :
