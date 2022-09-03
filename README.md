@@ -1,6 +1,6 @@
 # add-on bug kuning merah di websocket
 # add-on yaml di websocket for z9cksVPN 3RinggeK
-# fix OVPN
+# add on trojan tls ntls websocket 
 
                                                         AutoScript VPN By comingsoon 
 
@@ -86,11 +86,12 @@ systemctl restart wg-quick@wg0
   - SS-OBFS HTTP            : 3443-3543
   - XRAY Vmess Ws Tls       : 443
   - XRAY Vless Ws Tls       : 443
+  - XRAY Trojan Ws Tls      : 443
   - XRAY Vless Tcp Xtls     : 443
-  - XRAY Trojan Tcp Tls     : 443
   - XRAY Vmess Ws None Tls  : 80
   - XRAY Vless Ws None Tls  : 8080
-  - Trojan Go               : 8443
+  - XRAY Trojan Ws None Tls : 8443
+  - Trojan Go               : 2083
 
  >>> Server Information & Other Features
    - Timezone                 : Asia/Kuala_Lumpur (GMT +8)
