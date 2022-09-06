@@ -1,5 +1,5 @@
-# add-on bug kuning merah di websocket
-# add-on yaml di websocket for z9cksVPN 3RinggeK
+# add-on bug kuning merah biru di websocket
+# add-on yaml di websocket
 # add on trojan tls ntls websocket 
 
                                            
