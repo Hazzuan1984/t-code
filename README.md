@@ -55,7 +55,7 @@ systemctl restart wg-quick@wg0
   comingsoonFreeAutoscripts
   ```
  
- Contact owner on Telegram @hazzuan1984 <a href="https://t.me/hazzuan1984" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a> if have problem
+ Contact owner on Telegram hazzuan <a href="https://t.me/HazzuanHashim" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a> if have problem
 
 
 ## Description :
