@@ -107,11 +107,11 @@ systemctl restart wg-quick@wg0
 
 ## Telegram
 
-[comingsoon](https://t.me/HazzuanHashim)
+[Hazzuan Hashim](https://t.me/HazzuanHashim)
 
-[Group comingsoon](https://t.me/HazzuanHashim)
+[Group Hazzuan Hashim](https://t.me/HazzuanHashim)
 
-[Channel comingsoon](https://t.me/HazzuanHashim)
+[Channel Hazzuan Hashim](https://t.me/HazzuanHashim)
 
 ## Credit :
 
@@ -122,6 +122,6 @@ systemctl restart wg-quick@wg0
 *   V2ray
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Copyright%20©-comingsoon%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/Copyright%20©-HazzuanHashim%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
     </p>
    </p>
