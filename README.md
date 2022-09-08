@@ -107,15 +107,15 @@ systemctl restart wg-quick@wg0
 
 ## Telegram
 
-[comingsoon](https://t.me/hazzuan1984)
+[comingsoon](https://t.me/HazzuanHashim)
 
-[Group comingsoon](https://t.me/hazzuan1984)
+[Group comingsoon](https://t.me/HazzuanHashim)
 
-[Channel comingsoon](https://t.me/hazzuan1984)
+[Channel comingsoon](https://t.me/HazzuanHashim)
 
 ## Credit :
 
-*   comingsoon
+*   Hazzuan
 
 *   Project X
 
