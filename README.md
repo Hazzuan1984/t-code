@@ -86,7 +86,7 @@ systemctl restart wg-quick@wg0
   - XRAY Vmess Ws None Tls  : 80
   - XRAY Vless Ws None Tls  : 8080
   - XRAY Trojan Ws None Tls : 8880
-  - Trojan Go               : 2083
+  - Trojan Go               : 8443
 
  >>> Server Information & Other Features
    - Timezone                 : Asia/Kuala_Lumpur (GMT +8)
