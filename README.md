@@ -118,8 +118,9 @@ systemctl restart wg-quick@wg0
 ## Credit :
 
 *   Hazzuan
-
-*   Project X
+*   Vinstechmy
+*   V-code
+*   ꜱᴀᴍꜱꜰx
 
 *   V2ray
 
