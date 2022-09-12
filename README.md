@@ -3,6 +3,7 @@
 - add-on yaml di websocket (Malaysia ONLY)
 - add on trojan tls ntls websocket
 - fix bug trojan ntls not running
+- fix OVPN error
 
                                            
 <h2 align="center"> Autoscript by HazzuanHashim</h2>
