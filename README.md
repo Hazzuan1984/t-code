@@ -1,5 +1,6 @@
 # FIX BUG dan add-onn protocol
-- add-on bug kuning merah biru di websocket (Malaysia ONLY)
+- add-on bug kuning merah biru di websocket and trojan-go (Malaysia ONLY)
+- add-on bug oren di XTLS (Malaysia ONLY)
 - add-on yaml di websocket (Malaysia ONLY)
 - add on trojan tls ntls websocket
 - fix bug trojan ntls not running
