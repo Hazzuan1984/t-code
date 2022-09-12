@@ -1,6 +1,8 @@
-# add-on bug kuning merah biru di websocket
-# add-on yaml di websocket
-# add on trojan tls ntls websocket 
+# FIX BUG dan add-onn protocol
+- add-on bug kuning merah biru di websocket (Malaysia ONLY)
+- add-on yaml di websocket (Malaysia ONLY)
+- add on trojan tls ntls websocket
+- fix bug trojan ntls not running
 
                                            
 <h2 align="center"> Autoscript by HazzuanHashim</h2>
