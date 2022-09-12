@@ -57,7 +57,7 @@ systemctl restart wg-quick@wg0
   comingsoonFreeAutoscripts
   ```
  
- Contact owner on Telegram hazzuan <a href="https://t.me/HazzuanHashim" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a> if have problem
+Feedback to owner on Telegram hazzuan <a href="https://t.me/HazzuanHashim" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a> to fix BUG (slow respond)
 
 
 ## Description :
