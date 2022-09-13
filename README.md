@@ -113,7 +113,7 @@ Feedback to owner on Telegram hazzuan <a href="https://t.me/HazzuanHashim" targe
 
 [Hazzuan Hashim](https://t.me/HazzuanHashim)
 
-[Group Hazzuan Hashim](https://t.me/+Mzkwf_deBM9jNTQ1)
+[Group Hazzuan Hashim](https://t.me/+Q3aefu_pN50xZWVl)
 
 [Channel Hazzuan Hashim](https://t.me/HazzuanHashim)
 
