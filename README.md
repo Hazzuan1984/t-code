@@ -5,6 +5,7 @@
 - boleh feedback jika ada masalah ( masalah script saja saya layan)
 - masalah tak tau install tak tau subdomain tu apa atau masalah kecik2 maaf saya tak dak masa layan
 - saya dah guna di vps digital ocean / linode / shinjiru / myklnet / ovh dan tak masalah apa2.
+- sila training banyak2 kali install script ctech smpai pandai https://t.me/+TfT_DO4Q8LdlMTY1
 - enjoy jelah tak suka abaikan...
 
                                            
