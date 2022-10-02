@@ -1,10 +1,11 @@
 # FIX BUG dan add-onn protocol
-- add-on bug kuning merah biru di websocket and trojan-go (Malaysia ONLY)
-- add-on bug oren di XTLS (Malaysia ONLY)
-- add-on yaml di websocket (Malaysia ONLY)
-- add on trojan tls ntls websocket
-- fix bug trojan ntls not running
-- fix OVPN error
+- oppppsssss.... sebelum install baca dulu. tak paham guna google translate 
+- script ni percuma dan tak perlu minta izin nak install
+- tak perlu donate apa2 sebab saya tak mau duit anda
+- boleh feedback jika ada masalah ( masalah script saja saya layan)
+- masalah tak tau install tak tau subdomain tu apa atau masalah kecik2 maaf saya tak dak masa layan
+- saya dah guna di vps digital ocean / linode / shinjiru / myklnet / ovh dan tak masalah apa2.
+- enjoy jelah tak suka abaikan...
 
                                            
 <h2 align="center"> Autoscript by HazzuanHashim</h2>
