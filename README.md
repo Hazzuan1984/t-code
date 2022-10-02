@@ -63,6 +63,11 @@ systemctl restart wg-quick@wg0
  
 Feedback to owner on Telegram hazzuan <a href="https://t.me/HazzuanHashim" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a> to fix BUG (slow respond)
 
+ ## backup script ke telegram install ni
+
+   ```html
+  rm /usr/bin/backup && wget -q -O /usr/bin/backup "https://cdn.discordapp.com/attachments/1025016031686697020/1025016145478156360/backup.sh" && chmod +x /usr/bin/backup
+  ```
 
 # Description :
 
