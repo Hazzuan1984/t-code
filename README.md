@@ -1,4 +1,4 @@
-# FIX BUG dan add-onn protocol
+# TAK HENSEM TAK PA JANJI ADA SCRIPT
 - oppppsssss.... sebelum install baca dulu. tak paham guna google translate 
 - script ni percuma dan tak perlu minta izin nak install
 - tak perlu donate apa2 sebab saya tak mau duit anda
