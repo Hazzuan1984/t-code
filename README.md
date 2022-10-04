@@ -1,5 +1,4 @@
-# TAK HENSEM TAK PA JANJI ADA SCRIPT
-- oppppsssss.... sebelum install baca dulu. tak paham guna google translate 
+# SEBELUM INSTALL BACA DULU. TAK FAHAM GOOGLE TRANSLATE
 - script ni percuma dan tak perlu minta izin nak install
 - tak perlu donate apa2 sebab saya tak mau duit anda
 - boleh feedback jika ada masalah ( masalah script saja saya layan)
