@@ -9,7 +9,7 @@
 
 # FIX SCRIPT
 - backup script issue fix
-- replace merah ke oren
+- sudah add trick merah 
                                            
 <h2 align="center"> Autoscript by HazzuanHashim</h2>
 
