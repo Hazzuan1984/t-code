@@ -1,4 +1,4 @@
-# SEBELUM INSTALL BACA DULU. TAK FAHAM GOOGLE TRANSLATE
+# SEBELUM INSTALL BACA DULU
 - Script ni percuma dan tak perlu minta izin nak install
 - Tak perlu donate apa2 sebab saya tak mau duit anda
 - Sapa guna script untuk tujuan menipu orang semoga digilis lori babi
