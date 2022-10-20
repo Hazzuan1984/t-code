@@ -1,10 +1,10 @@
 # SEBELUM INSTALL BACA DULU. TAK FAHAM GOOGLE TRANSLATE
-- script ni percuma dan tak perlu minta izin nak install
-- tak perlu donate apa2 sebab saya tak mau duit anda
-- boleh feedback jika ada masalah ( masalah script saja saya layan)
+- Script ni percuma dan tak perlu minta izin nak install
+- Tak perlu donate apa2 sebab saya tak mau duit anda
+- Sapa guna script untuk tujuan menipu orang semoga digilis lori babi
 - For advance user only! Yang tak tahu guna sila belajar dulu cara setup domain & vps di channel youtube ctechdidik https://t.me/+TfT_DO4Q8LdlMTY1
-- saya dah guna di vps digital ocean / linode / shinjiru / myklnet / ovh dan tak masalah apa2.
-- enjoy jelah tak suka abaikan...
+- Saya dah guna di vps digital ocean / linode / shinjiru / myklnet / ovh dan tak masalah apa2.
+- Enjoy jelah tak suka abaikan...
 
 # FIX SCRIPT
 - backup script issue fix
